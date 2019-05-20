@@ -1,5 +1,5 @@
-#Settimana 2
-#Esercizio 1
+# Settimana 2
+# Esercizio 1
 La seguente tabella mostra i voli giornalieri tra due città:
 
 orario partenza -- orario arrivo
@@ -20,7 +20,7 @@ Enter a 24-hour time: 13.15
 
 Closest departure time is 2.00 pm, arriving at 4.08 pm
 
-#Esercizio 2
+# Esercizio 2
 Scrivere un programma C che, preso in input un valore numero_studenti, permetta l’inserimento da tastiera del voto di ciascuno degli studenti e ne calcoli la media utilizzando sia il costrutto for che il costrutto while. Visualizzare poi un commento in base al voto medio della classe come mostrato in tabella:
 
 < 6: MEDIA INSUFFICIENTE
